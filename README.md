@@ -5,7 +5,7 @@
 
 ## Development
 - Duration: 1 month
-- Developer: Developed by one person
+- Developer: Hana Hirose
 
 ## Features
 - Scoring System: Compete for high scores.
@@ -19,6 +19,7 @@
 Watch the demo video on [YouTube link](https://www.youtube.com/watch?v=BWZYLWTyg_A).
 
 ## Technologies Used
+- Clip Studio 
 - Unity 2021.3.8f1
 - C#
 
