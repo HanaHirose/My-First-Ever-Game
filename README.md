@@ -18,6 +18,9 @@ Watch the demo video on [YouTube link](https://www.youtube.com/watch?v=BWZYLWTyg
 - Unity 2021.3.8f1
 - C#
 
+## C# Scripts Location
+The C# code for this project is located in the `Scripts` folder within the `Assets` directory. Please note there is a typographical error in the folder name, and it is actually named `Scrips`.
+
 ## Contribution
 This project is developed as a personal hobby and is not open for contributions.
 
