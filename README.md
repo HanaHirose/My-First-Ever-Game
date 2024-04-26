@@ -3,6 +3,10 @@
 ## Description
 "My First Ever Game" is an 2D action game developed in Unity designed solely for personal entertainment. You navigate through multiple stages, aiming to reach the goal while collecting cherries. You can earn more points by collecting as many cherries as possible, along with additional time bonuses.
 
+## Development
+- Duration: 2 weeks
+- Developer: Developed by one person
+
 ## Features
 - Scoring System: Compete for high scores.
 
