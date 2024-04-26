@@ -19,7 +19,7 @@
 Watch the demo video on [YouTube link](https://www.youtube.com/watch?v=BWZYLWTyg_A).
 
 ## Technologies Used
-- Clip Studio 
+- Clip Studio Paint
 - Unity 2021.3.8f1
 - C#
 
