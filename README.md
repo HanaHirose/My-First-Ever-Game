@@ -5,6 +5,16 @@
 ## Description
 "My First Ever Game" is an 2D action game developed in Unity designed solely for personal entertainment. You navigate through multiple stages, aiming to reach the goal while collecting cherries. You can earn more points by collecting as many cherries as possible, along with additional time bonuses.
 
+## Download
+You can download the latest version of "My First Ever Game" fron the release section here on GitHub.
+
+[Download Latest Release](https://github.com/HanaHirose/My-First-Ever-Game/releases)
+
+### Instructions
+1. Download the latest release from the link above.
+2. If it's a compressed file, unzip it to your desired location.
+3. Run the executable file to start playing the game. No installation required.
+
 ## Development
 - Duration: 3 month
 - Developer: Hana Hirose
