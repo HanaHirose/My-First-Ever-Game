@@ -25,10 +25,10 @@ You can download the latest version of "My First Ever Game" fron the release sec
 
 Due to macOS security settings, you may encounter a warning because it is from an unidentified developer. Follow these steps:
 
-**Open the Application Anyway**:
-    - Right-click (or Ctrl-click) on the application icon.
-    - Choose 'Open' from the contextual menu to bring up the warning dialog.
-    - Click 'Open' in the dialog. This allows you to run the application while bypassing the system's initial security settings.
+**Open the Application Anyway**
+- Right-click (or Ctrl-click) on the application icon.
+- Choose 'Open' from the contextual menu to bring up the warning dialog.
+- Click 'Open' in the dialog. This allows you to run the application while bypassing the system's initial security settings.
 
 By following these steps, you can ensure that "My First Ever Game" runs on your macOS device. I guarantee that my game is safe and free from malicious software, even though it has not yet been verified by Apple's certification process.
 
