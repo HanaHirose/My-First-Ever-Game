@@ -11,9 +11,18 @@
 - Scoring System: Compete for high scores.
 
 ## Controls
+## Keyboard Controls
 - Move: Arrow keys
 - Jump: Spacebar
 - Attack: 'E' key
+- Menu Navigation: Use the arrow keys to navigate and Spacebar to select
+- Exit Game: Escape key to close the game
+## Gamepad Controls
+- Move: Left Analog stick
+- Jump: East-facing button
+- Attack: West-facing button
+- Menu Navigation: Use the left analog stick to navigate and the South-facing button to select
+- Exit Game: Escape key on the keyboard to close the game
 
 ## Demo Video
 Watch the demo video on [YouTube link](https://www.youtube.com/watch?v=BWZYLWTyg_A).
