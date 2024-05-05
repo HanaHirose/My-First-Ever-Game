@@ -15,7 +15,7 @@
 - Move: Arrow keys
 - Jump: Spacebar
 - Attack: 'E' key
-- Menu Navigation: Use the arrow keys to navigate and Spacebar to select
+- Menu Navigation: Use the arrow keys to navigate and Enter to select
 - Exit Game: Escape key to close the game
 ## Gamepad Controls
 - Move: Left Analog stick
