@@ -15,14 +15,16 @@
 - Move: Arrow keys
 - Jump: Spacebar
 - Attack: 'E' key
+- Pause Menu: 'P' key to open the Pause Menu and Enter to select
 - Menu Navigation: Use the arrow keys to navigate and Enter to select
 - Exit Game: Escape key to close the game
 ## Gamepad Controls
 - Move: Left Analog stick
 - Jump: East-facing button
 - Attack: West-facing button
+- Pause Menu: Start button to open the Pause Menu and South-facing button to select
 - Menu Navigation: Use the left analog stick to navigate and the South-facing button to select
-- Exit Game: Escape key on the keyboard to close the game
+- Exit Game: No function on Gamepad, so use Escape key on the keyboard to close the game
 
 ## Demo Video
 Watch the demo video on [YouTube link](https://www.youtube.com/watch?v=BWZYLWTyg_A).
