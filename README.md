@@ -8,7 +8,9 @@
 ## System Requirements
 
 ### Supported Operating Systems
+
 **Windows**: No installation required, just download and run the '.exe' file.
+
 **macOS**: No installation required, just download and run the '.app' file.
 
 ## Download
