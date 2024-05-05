@@ -5,6 +5,12 @@
 ## Description
 "My First Ever Game" is an 2D action game developed in Unity designed solely for personal entertainment. You navigate through multiple stages, aiming to reach the goal while collecting cherries. You can earn more points by collecting as many cherries as possible, along with additional time bonuses.
 
+## System Requirements
+
+### Supported Operating Systems
+**Windows**: No installation required, just download and run the '.exe' file.
+**macOS**: No installation required, just download and run the '.app' file.
+
 ## Download
 You can download the latest version of "My First Ever Game" fron the release section here on GitHub.
 
@@ -14,6 +20,17 @@ You can download the latest version of "My First Ever Game" fron the release sec
 1. Download the latest release from the link above.
 2. If it's a compressed file, unzip it to your desired location.
 3. Run the executable file to start playing the game.
+
+### Additional Instructions for macOS Users
+
+Due to macOS security settings, you may encounter a warning because it is from an unidentified developer. Follow these steps:
+
+**Open the Application Anyway**:
+    - Right-click (or Ctrl-click) on the application icon.
+    - Choose 'Open' from the contextual menu to bring up the warning dialog.
+    - Click 'Open' in the dialog. This allows you to run the application while bypassing the system's initial security settings.
+
+By following these steps, you can ensure that "My First Ever Game" runs on your macOS device. I guarantee that my game is safe and free from malicious software, even though it has not yet been verified by Apple's certification process.
 
 ## Development
 - Duration: 3 month
