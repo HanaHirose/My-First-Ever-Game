@@ -13,7 +13,7 @@ You can download the latest version of "My First Ever Game" fron the release sec
 ### Instructions
 1. Download the latest release from the link above.
 2. If it's a compressed file, unzip it to your desired location.
-3. Run the executable file to start playing the game. No installation required.
+3. Run the executable file to start playing the game.
 
 ## Development
 - Duration: 3 month
