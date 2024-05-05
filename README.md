@@ -35,7 +35,7 @@ Due to macOS security settings, you may encounter a warning because it is from a
 By following these steps, you can ensure that "My First Ever Game" runs on your macOS device. I guarantee that my game is safe and free from malicious software, even though it has not yet been verified by Apple's certification process.
 
 ## Development
-- Duration: 3 month
+- Duration: 3 months
 - Developer: Hana Hirose
 
 ## Features
